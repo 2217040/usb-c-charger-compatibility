@@ -1,0 +1,80 @@
+{
+  "name": "usb-c-charger-compatibility",
+  "title": "USB-C charger × device compatibility and charging time",
+  "description": "For every pair of popular devices (phones, tablets, laptops, handheld consoles) and chargers: will it charge, the power the two negotiate, whether that is fast charging, and estimated 0–50% and 0–100% charging times. Device and charger specs come from the makers’ official pages.",
+  "homepage": "https://canitcharge.com/",
+  "keywords": [
+    "USB-C",
+    "charger",
+    "fast charging",
+    "power delivery",
+    "charging time",
+    "smartphones",
+    "laptops"
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "charger-compatibility",
+      "path": "data/charger-compatibility.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Charger compatibility",
+      "sources": [
+        {
+          "title": "Can It Charge? (canitcharge.com)",
+          "path": "https://canitcharge.com/devices/"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "device"
+          },
+          {
+            "name": "device_brand"
+          },
+          {
+            "name": "category"
+          },
+          {
+            "name": "charger"
+          },
+          {
+            "name": "charger_brand"
+          },
+          {
+            "name": "charger_max_w"
+          },
+          {
+            "name": "negotiated_w"
+          },
+          {
+            "name": "verdict"
+          },
+          {
+            "name": "limited_by"
+          },
+          {
+            "name": "minutes_0_to_50"
+          },
+          {
+            "name": "minutes_0_to_100"
+          },
+          {
+            "name": "time_basis"
+          },
+          {
+            "name": "page"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,941 @@
+device,device_brand,category,charger,charger_brand,charger_max_w,negotiated_w,verdict,limited_by,minutes_0_to_50,minutes_0_to_100,time_basis,page
+iPhone 18 Pro,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,60,138,manufacturer,https://canitcharge.com/iphone-18-pro/apple-5w-usb-a/
+iPhone 18 Pro,Apple,phone,Apple 20W USB-C,Apple,20,20,standard,charger,26,69,manufacturer,https://canitcharge.com/iphone-18-pro/apple-20w/
+iPhone 18 Pro,Apple,phone,Apple 30W USB-C,Apple,30,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/apple-30w/
+iPhone 18 Pro,Apple,phone,Apple 35W Dual USB-C,Apple,35,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/apple-35w-dual/
+iPhone 18 Pro,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,50,full speed,device,15,50,manufacturer,https://canitcharge.com/iphone-18-pro/apple-40w-dynamic/
+iPhone 18 Pro,Apple,phone,Apple 70W USB-C,Apple,70,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/apple-70w/
+iPhone 18 Pro,Apple,phone,Apple 96W USB-C,Apple,96,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/apple-96w/
+iPhone 18 Pro,Apple,phone,Apple 140W USB-C,Apple,140,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/apple-140w/
+iPhone 18 Pro,Apple,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,23,63,manufacturer,https://canitcharge.com/iphone-18-pro/samsung-25w/
+iPhone 18 Pro,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/samsung-45w/
+iPhone 18 Pro,Apple,phone,Google 30W USB-C,Google,30,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/google-30w/
+iPhone 18 Pro,Apple,phone,Google 45W USB-C,Google,45,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/google-45w/
+iPhone 18 Pro,Apple,phone,Steam Deck 45W,Valve,45,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/steam-deck-45w/
+iPhone 18 Pro,Apple,phone,ASUS ROG 65W,ASUS,65,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/asus-65w/
+iPhone 18 Pro,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/nintendo-switch-2-60w/
+iPhone 18 Pro,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/usb-c-65w-pps/
+iPhone 18 Pro,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/usb-c-100w-pps/
+iPhone 18 Pro,Apple,phone,Anker 715 (Nano II 65W),Anker,65,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/anker-715-nano-ii-65w/
+iPhone 18 Pro,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/ugreen-nexode-pro-45w-display/
+iPhone 18 Pro,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,30,standard,protocol,20,58,manufacturer,https://canitcharge.com/iphone-18-pro/ugreen-nexode-pro-100w-display/
+iPhone 18 Pro Max,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,61,141,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-5w-usb-a/
+iPhone 18 Pro Max,Apple,phone,Apple 20W USB-C,Apple,20,20,standard,charger,27,70,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-20w/
+iPhone 18 Pro Max,Apple,phone,Apple 30W USB-C,Apple,30,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-30w/
+iPhone 18 Pro Max,Apple,phone,Apple 35W Dual USB-C,Apple,35,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-35w-dual/
+iPhone 18 Pro Max,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,52,full speed,device,15,50,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-40w-dynamic/
+iPhone 18 Pro Max,Apple,phone,Apple 70W USB-C,Apple,70,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-70w/
+iPhone 18 Pro Max,Apple,phone,Apple 96W USB-C,Apple,96,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-96w/
+iPhone 18 Pro Max,Apple,phone,Apple 140W USB-C,Apple,140,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/apple-140w/
+iPhone 18 Pro Max,Apple,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,23,64,manufacturer,https://canitcharge.com/iphone-18-pro-max/samsung-25w/
+iPhone 18 Pro Max,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/samsung-45w/
+iPhone 18 Pro Max,Apple,phone,Google 30W USB-C,Google,30,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/google-30w/
+iPhone 18 Pro Max,Apple,phone,Google 45W USB-C,Google,45,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/google-45w/
+iPhone 18 Pro Max,Apple,phone,Steam Deck 45W,Valve,45,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/steam-deck-45w/
+iPhone 18 Pro Max,Apple,phone,ASUS ROG 65W,ASUS,65,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/asus-65w/
+iPhone 18 Pro Max,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/nintendo-switch-2-60w/
+iPhone 18 Pro Max,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/usb-c-65w-pps/
+iPhone 18 Pro Max,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/usb-c-100w-pps/
+iPhone 18 Pro Max,Apple,phone,Anker 715 (Nano II 65W),Anker,65,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/anker-715-nano-ii-65w/
+iPhone 18 Pro Max,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/ugreen-nexode-pro-45w-display/
+iPhone 18 Pro Max,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,30,standard,protocol,21,59,manufacturer,https://canitcharge.com/iphone-18-pro-max/ugreen-nexode-pro-100w-display/
+iPhone 17,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,70,163,manufacturer,https://canitcharge.com/iphone-17/apple-5w-usb-a/
+iPhone 17,Apple,phone,Apple 20W USB-C,Apple,20,20,standard,charger,30,83,manufacturer,https://canitcharge.com/iphone-17/apple-20w/
+iPhone 17,Apple,phone,Apple 30W USB-C,Apple,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17/apple-30w/
+iPhone 17,Apple,phone,Apple 35W Dual USB-C,Apple,35,35,standard,charger,22,69,manufacturer,https://canitcharge.com/iphone-17/apple-35w-dual/
+iPhone 17,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/apple-40w-dynamic/
+iPhone 17,Apple,phone,Apple 70W USB-C,Apple,70,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/apple-70w/
+iPhone 17,Apple,phone,Apple 96W USB-C,Apple,96,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/apple-96w/
+iPhone 17,Apple,phone,Apple 140W USB-C,Apple,140,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/apple-140w/
+iPhone 17,Apple,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,27,77,manufacturer,https://canitcharge.com/iphone-17/samsung-25w/
+iPhone 17,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/samsung-45w/
+iPhone 17,Apple,phone,Google 30W USB-C,Google,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17/google-30w/
+iPhone 17,Apple,phone,Google 45W USB-C,Google,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/google-45w/
+iPhone 17,Apple,phone,Steam Deck 45W,Valve,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/steam-deck-45w/
+iPhone 17,Apple,phone,ASUS ROG 65W,ASUS,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/asus-65w/
+iPhone 17,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/nintendo-switch-2-60w/
+iPhone 17,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/usb-c-65w-pps/
+iPhone 17,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/usb-c-100w-pps/
+iPhone 17,Apple,phone,Anker 715 (Nano II 65W),Anker,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/anker-715-nano-ii-65w/
+iPhone 17,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/ugreen-nexode-pro-45w-display/
+iPhone 17,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17/ugreen-nexode-pro-100w-display/
+iPhone 17 Pro,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,70,163,manufacturer,https://canitcharge.com/iphone-17-pro/apple-5w-usb-a/
+iPhone 17 Pro,Apple,phone,Apple 20W USB-C,Apple,20,20,standard,charger,30,83,manufacturer,https://canitcharge.com/iphone-17-pro/apple-20w/
+iPhone 17 Pro,Apple,phone,Apple 30W USB-C,Apple,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17-pro/apple-30w/
+iPhone 17 Pro,Apple,phone,Apple 35W Dual USB-C,Apple,35,35,standard,charger,22,69,manufacturer,https://canitcharge.com/iphone-17-pro/apple-35w-dual/
+iPhone 17 Pro,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/apple-40w-dynamic/
+iPhone 17 Pro,Apple,phone,Apple 70W USB-C,Apple,70,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/apple-70w/
+iPhone 17 Pro,Apple,phone,Apple 96W USB-C,Apple,96,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/apple-96w/
+iPhone 17 Pro,Apple,phone,Apple 140W USB-C,Apple,140,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/apple-140w/
+iPhone 17 Pro,Apple,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,27,77,manufacturer,https://canitcharge.com/iphone-17-pro/samsung-25w/
+iPhone 17 Pro,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/samsung-45w/
+iPhone 17 Pro,Apple,phone,Google 30W USB-C,Google,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17-pro/google-30w/
+iPhone 17 Pro,Apple,phone,Google 45W USB-C,Google,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/google-45w/
+iPhone 17 Pro,Apple,phone,Steam Deck 45W,Valve,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/steam-deck-45w/
+iPhone 17 Pro,Apple,phone,ASUS ROG 65W,ASUS,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/asus-65w/
+iPhone 17 Pro,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/nintendo-switch-2-60w/
+iPhone 17 Pro,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/usb-c-65w-pps/
+iPhone 17 Pro,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/usb-c-100w-pps/
+iPhone 17 Pro,Apple,phone,Anker 715 (Nano II 65W),Anker,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/anker-715-nano-ii-65w/
+iPhone 17 Pro,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/ugreen-nexode-pro-45w-display/
+iPhone 17 Pro,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro/ugreen-nexode-pro-100w-display/
+iPhone 17 Pro Max,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,70,163,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-5w-usb-a/
+iPhone 17 Pro Max,Apple,phone,Apple 20W USB-C,Apple,20,20,standard,charger,30,83,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-20w/
+iPhone 17 Pro Max,Apple,phone,Apple 30W USB-C,Apple,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-30w/
+iPhone 17 Pro Max,Apple,phone,Apple 35W Dual USB-C,Apple,35,35,standard,charger,22,69,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-35w-dual/
+iPhone 17 Pro Max,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-40w-dynamic/
+iPhone 17 Pro Max,Apple,phone,Apple 70W USB-C,Apple,70,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-70w/
+iPhone 17 Pro Max,Apple,phone,Apple 96W USB-C,Apple,96,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-96w/
+iPhone 17 Pro Max,Apple,phone,Apple 140W USB-C,Apple,140,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/apple-140w/
+iPhone 17 Pro Max,Apple,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,27,77,manufacturer,https://canitcharge.com/iphone-17-pro-max/samsung-25w/
+iPhone 17 Pro Max,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/samsung-45w/
+iPhone 17 Pro Max,Apple,phone,Google 30W USB-C,Google,30,30,standard,charger,24,72,manufacturer,https://canitcharge.com/iphone-17-pro-max/google-30w/
+iPhone 17 Pro Max,Apple,phone,Google 45W USB-C,Google,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/google-45w/
+iPhone 17 Pro Max,Apple,phone,Steam Deck 45W,Valve,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/steam-deck-45w/
+iPhone 17 Pro Max,Apple,phone,ASUS ROG 65W,ASUS,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/asus-65w/
+iPhone 17 Pro Max,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/nintendo-switch-2-60w/
+iPhone 17 Pro Max,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/usb-c-65w-pps/
+iPhone 17 Pro Max,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/usb-c-100w-pps/
+iPhone 17 Pro Max,Apple,phone,Anker 715 (Nano II 65W),Anker,65,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/anker-715-nano-ii-65w/
+iPhone 17 Pro Max,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/ugreen-nexode-pro-45w-display/
+iPhone 17 Pro Max,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,40,full speed,device,20,66,manufacturer,https://canitcharge.com/iphone-17-pro-max/ugreen-nexode-pro-100w-display/
+iPhone Air,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-air/apple-5w-usb-a/
+iPhone Air,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-20w/
+iPhone Air,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-30w/
+iPhone Air,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-35w-dual/
+iPhone Air,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-40w-dynamic/
+iPhone Air,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-70w/
+iPhone Air,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-96w/
+iPhone Air,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/apple-140w/
+iPhone Air,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/samsung-25w/
+iPhone Air,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/samsung-45w/
+iPhone Air,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/google-30w/
+iPhone Air,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/google-45w/
+iPhone Air,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/steam-deck-45w/
+iPhone Air,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/asus-65w/
+iPhone Air,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/nintendo-switch-2-60w/
+iPhone Air,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/usb-c-65w-pps/
+iPhone Air,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/usb-c-100w-pps/
+iPhone Air,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/anker-715-nano-ii-65w/
+iPhone Air,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/ugreen-nexode-pro-45w-display/
+iPhone Air,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-air/ugreen-nexode-pro-100w-display/
+Galaxy S26,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,72,173,manufacturer,https://canitcharge.com/galaxy-s26/apple-5w-usb-a/
+Galaxy S26,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-20w/
+Galaxy S26,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-30w/
+Galaxy S26,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-35w-dual/
+Galaxy S26,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-40w-dynamic/
+Galaxy S26,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-70w/
+Galaxy S26,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-96w/
+Galaxy S26,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/apple-140w/
+Galaxy S26,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/samsung-25w/
+Galaxy S26,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/samsung-45w/
+Galaxy S26,Samsung,phone,Google 30W USB-C,Google,30,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/google-30w/
+Galaxy S26,Samsung,phone,Google 45W USB-C,Google,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/google-45w/
+Galaxy S26,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/steam-deck-45w/
+Galaxy S26,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/asus-65w/
+Galaxy S26,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/nintendo-switch-2-60w/
+Galaxy S26,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/usb-c-65w-pps/
+Galaxy S26,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/usb-c-100w-pps/
+Galaxy S26,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-s26/anker-715-nano-ii-65w/
+Galaxy S26,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/ugreen-nexode-pro-45w-display/
+Galaxy S26,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-s26/ugreen-nexode-pro-100w-display/
+Galaxy S26+,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,81,189,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-5w-usb-a/
+Galaxy S26+,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-20w/
+Galaxy S26+,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-30w/
+Galaxy S26+,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-35w-dual/
+Galaxy S26+,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-40w-dynamic/
+Galaxy S26+,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-70w/
+Galaxy S26+,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-96w/
+Galaxy S26+,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/apple-140w/
+Galaxy S26+,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,31,87,manufacturer,https://canitcharge.com/galaxy-s26-plus/samsung-25w/
+Galaxy S26+,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/samsung-45w/
+Galaxy S26+,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,28,81,manufacturer,https://canitcharge.com/galaxy-s26-plus/google-30w/
+Galaxy S26+,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/google-45w/
+Galaxy S26+,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/steam-deck-45w/
+Galaxy S26+,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/asus-65w/
+Galaxy S26+,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/nintendo-switch-2-60w/
+Galaxy S26+,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/usb-c-65w-pps/
+Galaxy S26+,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/usb-c-100w-pps/
+Galaxy S26+,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,42,108,manufacturer,https://canitcharge.com/galaxy-s26-plus/anker-715-nano-ii-65w/
+Galaxy S26+,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/ugreen-nexode-pro-45w-display/
+Galaxy S26+,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,22,72,manufacturer,https://canitcharge.com/galaxy-s26-plus/ugreen-nexode-pro-100w-display/
+Galaxy S26 Ultra,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,89,204,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-5w-usb-a/
+Galaxy S26 Ultra,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-20w/
+Galaxy S26 Ultra,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-30w/
+Galaxy S26 Ultra,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-35w-dual/
+Galaxy S26 Ultra,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-40w-dynamic/
+Galaxy S26 Ultra,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-70w/
+Galaxy S26 Ultra,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-96w/
+Galaxy S26 Ultra,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/apple-140w/
+Galaxy S26 Ultra,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,34,90,manufacturer,https://canitcharge.com/galaxy-s26-ultra/samsung-25w/
+Galaxy S26 Ultra,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,24,72,manufacturer,https://canitcharge.com/galaxy-s26-ultra/samsung-45w/
+Galaxy S26 Ultra,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,30,83,manufacturer,https://canitcharge.com/galaxy-s26-ultra/google-30w/
+Galaxy S26 Ultra,Samsung,phone,Google 45W USB-C,Google,45,45,standard,charger,24,72,manufacturer,https://canitcharge.com/galaxy-s26-ultra/google-45w/
+Galaxy S26 Ultra,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/steam-deck-45w/
+Galaxy S26 Ultra,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/asus-65w/
+Galaxy S26 Ultra,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/nintendo-switch-2-60w/
+Galaxy S26 Ultra,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,60,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s26-ultra/usb-c-65w-pps/
+Galaxy S26 Ultra,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,60,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s26-ultra/usb-c-100w-pps/
+Galaxy S26 Ultra,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,46,114,manufacturer,https://canitcharge.com/galaxy-s26-ultra/anker-715-nano-ii-65w/
+Galaxy S26 Ultra,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,24,72,manufacturer,https://canitcharge.com/galaxy-s26-ultra/ugreen-nexode-pro-45w-display/
+Galaxy S26 Ultra,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,60,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s26-ultra/ugreen-nexode-pro-100w-display/
+Galaxy S25,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,109,263,battery,https://canitcharge.com/galaxy-s25/apple-5w-usb-a/
+Galaxy S25,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-20w/
+Galaxy S25,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-30w/
+Galaxy S25,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-35w-dual/
+Galaxy S25,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-40w-dynamic/
+Galaxy S25,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-70w/
+Galaxy S25,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-96w/
+Galaxy S25,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/apple-140w/
+Galaxy S25,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/samsung-25w/
+Galaxy S25,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/samsung-45w/
+Galaxy S25,Samsung,phone,Google 30W USB-C,Google,30,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/google-30w/
+Galaxy S25,Samsung,phone,Google 45W USB-C,Google,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/google-45w/
+Galaxy S25,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/steam-deck-45w/
+Galaxy S25,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/asus-65w/
+Galaxy S25,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/nintendo-switch-2-60w/
+Galaxy S25,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/usb-c-65w-pps/
+Galaxy S25,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/usb-c-100w-pps/
+Galaxy S25,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s25/anker-715-nano-ii-65w/
+Galaxy S25,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/ugreen-nexode-pro-45w-display/
+Galaxy S25,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s25/ugreen-nexode-pro-100w-display/
+Galaxy S25+,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,75,174,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-5w-usb-a/
+Galaxy S25+,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-20w/
+Galaxy S25+,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-30w/
+Galaxy S25+,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-35w-dual/
+Galaxy S25+,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-40w-dynamic/
+Galaxy S25+,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-70w/
+Galaxy S25+,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-96w/
+Galaxy S25+,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/apple-140w/
+Galaxy S25+,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,28,80,manufacturer,https://canitcharge.com/galaxy-s25-plus/samsung-25w/
+Galaxy S25+,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/samsung-45w/
+Galaxy S25+,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,26,75,manufacturer,https://canitcharge.com/galaxy-s25-plus/google-30w/
+Galaxy S25+,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/google-45w/
+Galaxy S25+,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/steam-deck-45w/
+Galaxy S25+,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/asus-65w/
+Galaxy S25+,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/nintendo-switch-2-60w/
+Galaxy S25+,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/usb-c-65w-pps/
+Galaxy S25+,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/usb-c-100w-pps/
+Galaxy S25+,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-plus/anker-715-nano-ii-65w/
+Galaxy S25+,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/ugreen-nexode-pro-45w-display/
+Galaxy S25+,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-plus/ugreen-nexode-pro-100w-display/
+Galaxy S25 Ultra,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,75,174,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-5w-usb-a/
+Galaxy S25 Ultra,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-20w/
+Galaxy S25 Ultra,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-30w/
+Galaxy S25 Ultra,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-35w-dual/
+Galaxy S25 Ultra,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-40w-dynamic/
+Galaxy S25 Ultra,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-70w/
+Galaxy S25 Ultra,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-96w/
+Galaxy S25 Ultra,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/apple-140w/
+Galaxy S25 Ultra,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,28,80,manufacturer,https://canitcharge.com/galaxy-s25-ultra/samsung-25w/
+Galaxy S25 Ultra,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/samsung-45w/
+Galaxy S25 Ultra,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,26,75,manufacturer,https://canitcharge.com/galaxy-s25-ultra/google-30w/
+Galaxy S25 Ultra,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/google-45w/
+Galaxy S25 Ultra,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/steam-deck-45w/
+Galaxy S25 Ultra,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/asus-65w/
+Galaxy S25 Ultra,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/nintendo-switch-2-60w/
+Galaxy S25 Ultra,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/usb-c-65w-pps/
+Galaxy S25 Ultra,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/usb-c-100w-pps/
+Galaxy S25 Ultra,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,39,99,manufacturer,https://canitcharge.com/galaxy-s25-ultra/anker-715-nano-ii-65w/
+Galaxy S25 Ultra,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/ugreen-nexode-pro-45w-display/
+Galaxy S25 Ultra,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/galaxy-s25-ultra/ugreen-nexode-pro-100w-display/
+Pixel 11,Google,phone,Apple 5W USB-A,Apple,5,5,slow,charger,80,190,manufacturer,https://canitcharge.com/pixel-11/apple-5w-usb-a/
+Pixel 11,Google,phone,Apple 20W USB-C,Apple,20,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-20w/
+Pixel 11,Google,phone,Apple 30W USB-C,Apple,30,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-30w/
+Pixel 11,Google,phone,Apple 35W Dual USB-C,Apple,35,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-35w-dual/
+Pixel 11,Google,phone,Apple 40W Dynamic (60W Max),Apple,60,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-40w-dynamic/
+Pixel 11,Google,phone,Apple 70W USB-C,Apple,70,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-70w/
+Pixel 11,Google,phone,Apple 96W USB-C,Apple,96,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-96w/
+Pixel 11,Google,phone,Apple 140W USB-C,Apple,140,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/apple-140w/
+Pixel 11,Google,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,30,95,manufacturer,https://canitcharge.com/pixel-11/samsung-25w/
+Pixel 11,Google,phone,Samsung 45W Super Fast 2.0,Samsung,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/samsung-45w/
+Pixel 11,Google,phone,Google 30W USB-C,Google,30,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/google-30w/
+Pixel 11,Google,phone,Google 45W USB-C,Google,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/google-45w/
+Pixel 11,Google,phone,Steam Deck 45W,Valve,45,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/steam-deck-45w/
+Pixel 11,Google,phone,ASUS ROG 65W,ASUS,65,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/asus-65w/
+Pixel 11,Google,phone,Nintendo Switch 2 AC adapter,Nintendo,60,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/nintendo-switch-2-60w/
+Pixel 11,Google,phone,Any 65W USB-C PD (PPS),Generic,65,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/usb-c-65w-pps/
+Pixel 11,Google,phone,Any 100W USB-C PD (PPS),Generic,100,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/usb-c-100w-pps/
+Pixel 11,Google,phone,Anker 715 (Nano II 65W),Anker,65,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11/anker-715-nano-ii-65w/
+Pixel 11,Google,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/ugreen-nexode-pro-45w-display/
+Pixel 11,Google,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11/ugreen-nexode-pro-100w-display/
+Pixel 11 Pro,Google,phone,Apple 5W USB-A,Apple,5,5,slow,charger,80,190,manufacturer,https://canitcharge.com/pixel-11-pro/apple-5w-usb-a/
+Pixel 11 Pro,Google,phone,Apple 20W USB-C,Apple,20,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-20w/
+Pixel 11 Pro,Google,phone,Apple 30W USB-C,Apple,30,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-30w/
+Pixel 11 Pro,Google,phone,Apple 35W Dual USB-C,Apple,35,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-35w-dual/
+Pixel 11 Pro,Google,phone,Apple 40W Dynamic (60W Max),Apple,60,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-40w-dynamic/
+Pixel 11 Pro,Google,phone,Apple 70W USB-C,Apple,70,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-70w/
+Pixel 11 Pro,Google,phone,Apple 96W USB-C,Apple,96,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-96w/
+Pixel 11 Pro,Google,phone,Apple 140W USB-C,Apple,140,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/apple-140w/
+Pixel 11 Pro,Google,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,30,95,manufacturer,https://canitcharge.com/pixel-11-pro/samsung-25w/
+Pixel 11 Pro,Google,phone,Samsung 45W Super Fast 2.0,Samsung,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/samsung-45w/
+Pixel 11 Pro,Google,phone,Google 30W USB-C,Google,30,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/google-30w/
+Pixel 11 Pro,Google,phone,Google 45W USB-C,Google,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/google-45w/
+Pixel 11 Pro,Google,phone,Steam Deck 45W,Valve,45,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/steam-deck-45w/
+Pixel 11 Pro,Google,phone,ASUS ROG 65W,ASUS,65,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/asus-65w/
+Pixel 11 Pro,Google,phone,Nintendo Switch 2 AC adapter,Nintendo,60,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/nintendo-switch-2-60w/
+Pixel 11 Pro,Google,phone,Any 65W USB-C PD (PPS),Generic,65,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/usb-c-65w-pps/
+Pixel 11 Pro,Google,phone,Any 100W USB-C PD (PPS),Generic,100,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/usb-c-100w-pps/
+Pixel 11 Pro,Google,phone,Anker 715 (Nano II 65W),Anker,65,18,standard,protocol,37,106,manufacturer,https://canitcharge.com/pixel-11-pro/anker-715-nano-ii-65w/
+Pixel 11 Pro,Google,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/ugreen-nexode-pro-45w-display/
+Pixel 11 Pro,Google,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,30,full speed,device,27,90,manufacturer,https://canitcharge.com/pixel-11-pro/ugreen-nexode-pro-100w-display/
+Pixel 11 Pro XL,Google,phone,Apple 5W USB-A,Apple,5,5,slow,charger,75,174,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-5w-usb-a/
+Pixel 11 Pro XL,Google,phone,Apple 20W USB-C,Apple,20,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-20w/
+Pixel 11 Pro XL,Google,phone,Apple 30W USB-C,Apple,30,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-30w/
+Pixel 11 Pro XL,Google,phone,Apple 35W Dual USB-C,Apple,35,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-35w-dual/
+Pixel 11 Pro XL,Google,phone,Apple 40W Dynamic (60W Max),Apple,60,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-40w-dynamic/
+Pixel 11 Pro XL,Google,phone,Apple 70W USB-C,Apple,70,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-70w/
+Pixel 11 Pro XL,Google,phone,Apple 96W USB-C,Apple,96,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-96w/
+Pixel 11 Pro XL,Google,phone,Apple 140W USB-C,Apple,140,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/apple-140w/
+Pixel 11 Pro XL,Google,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,28,80,manufacturer,https://canitcharge.com/pixel-11-pro-xl/samsung-25w/
+Pixel 11 Pro XL,Google,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/samsung-45w/
+Pixel 11 Pro XL,Google,phone,Google 30W USB-C,Google,30,30,standard,charger,26,75,manufacturer,https://canitcharge.com/pixel-11-pro-xl/google-30w/
+Pixel 11 Pro XL,Google,phone,Google 45W USB-C,Google,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/google-45w/
+Pixel 11 Pro XL,Google,phone,Steam Deck 45W,Valve,45,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/steam-deck-45w/
+Pixel 11 Pro XL,Google,phone,ASUS ROG 65W,ASUS,65,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/asus-65w/
+Pixel 11 Pro XL,Google,phone,Nintendo Switch 2 AC adapter,Nintendo,60,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/nintendo-switch-2-60w/
+Pixel 11 Pro XL,Google,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/usb-c-65w-pps/
+Pixel 11 Pro XL,Google,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/usb-c-100w-pps/
+Pixel 11 Pro XL,Google,phone,Anker 715 (Nano II 65W),Anker,65,18,standard,protocol,35,91,manufacturer,https://canitcharge.com/pixel-11-pro-xl/anker-715-nano-ii-65w/
+Pixel 11 Pro XL,Google,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/ugreen-nexode-pro-45w-display/
+Pixel 11 Pro XL,Google,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,20,66,manufacturer,https://canitcharge.com/pixel-11-pro-xl/ugreen-nexode-pro-100w-display/
+iPad Pro (M5),Apple,tablet,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/ipad-pro-m5/apple-5w-usb-a/
+iPad Pro (M5),Apple,tablet,Apple 20W USB-C,Apple,20,20,standard,charger,72,185,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-20w/
+iPad Pro (M5),Apple,tablet,Apple 30W USB-C,Apple,30,30,standard,charger,52,144,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-30w/
+iPad Pro (M5),Apple,tablet,Apple 35W Dual USB-C,Apple,35,35,standard,charger,46,131,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-35w-dual/
+iPad Pro (M5),Apple,tablet,Apple 40W Dynamic (60W Max),Apple,60,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-40w-dynamic/
+iPad Pro (M5),Apple,tablet,Apple 70W USB-C,Apple,70,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-70w/
+iPad Pro (M5),Apple,tablet,Apple 96W USB-C,Apple,96,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-96w/
+iPad Pro (M5),Apple,tablet,Apple 140W USB-C,Apple,140,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/apple-140w/
+iPad Pro (M5),Apple,tablet,Samsung 25W Super Fast,Samsung,25,25,standard,charger,60,161,manufacturer,https://canitcharge.com/ipad-pro-m5/samsung-25w/
+iPad Pro (M5),Apple,tablet,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,38,114,manufacturer,https://canitcharge.com/ipad-pro-m5/samsung-45w/
+iPad Pro (M5),Apple,tablet,Google 30W USB-C,Google,30,30,standard,charger,52,144,manufacturer,https://canitcharge.com/ipad-pro-m5/google-30w/
+iPad Pro (M5),Apple,tablet,Google 45W USB-C,Google,45,45,standard,charger,38,114,manufacturer,https://canitcharge.com/ipad-pro-m5/google-45w/
+iPad Pro (M5),Apple,tablet,Steam Deck 45W,Valve,45,45,standard,charger,38,114,manufacturer,https://canitcharge.com/ipad-pro-m5/steam-deck-45w/
+iPad Pro (M5),Apple,tablet,ASUS ROG 65W,ASUS,65,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/asus-65w/
+iPad Pro (M5),Apple,tablet,Nintendo Switch 2 AC adapter,Nintendo,60,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/nintendo-switch-2-60w/
+iPad Pro (M5),Apple,tablet,Any 65W USB-C PD (PPS),Generic,65,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/usb-c-65w-pps/
+iPad Pro (M5),Apple,tablet,Any 100W USB-C PD (PPS),Generic,100,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/usb-c-100w-pps/
+iPad Pro (M5),Apple,tablet,Anker 715 (Nano II 65W),Anker,65,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/anker-715-nano-ii-65w/
+iPad Pro (M5),Apple,tablet,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,38,114,manufacturer,https://canitcharge.com/ipad-pro-m5/ugreen-nexode-pro-45w-display/
+iPad Pro (M5),Apple,tablet,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,60,full speed,device,30,99,manufacturer,https://canitcharge.com/ipad-pro-m5/ugreen-nexode-pro-100w-display/
+MacBook Air 13″ (M4),Apple,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/macbook-air-13-m4/apple-5w-usb-a/
+MacBook Air 13″ (M4),Apple,laptop,Apple 20W USB-C,Apple,20,20,slow,charger,82,205,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-20w/
+MacBook Air 13″ (M4),Apple,laptop,Apple 30W USB-C,Apple,30,30,standard,charger,59,158,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-30w/
+MacBook Air 13″ (M4),Apple,laptop,Apple 35W Dual USB-C,Apple,35,35,standard,charger,52,144,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-35w-dual/
+MacBook Air 13″ (M4),Apple,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,standard,charger,34,107,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-40w-dynamic/
+MacBook Air 13″ (M4),Apple,laptop,Apple 70W USB-C,Apple,70,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-70w/
+MacBook Air 13″ (M4),Apple,laptop,Apple 96W USB-C,Apple,96,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-96w/
+MacBook Air 13″ (M4),Apple,laptop,Apple 140W USB-C,Apple,140,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-13-m4/apple-140w/
+MacBook Air 13″ (M4),Apple,laptop,Samsung 25W Super Fast,Samsung,25,25,slow,charger,68,177,manufacturer,https://canitcharge.com/macbook-air-13-m4/samsung-25w/
+MacBook Air 13″ (M4),Apple,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-13-m4/samsung-45w/
+MacBook Air 13″ (M4),Apple,laptop,Google 30W USB-C,Google,30,30,standard,charger,59,158,manufacturer,https://canitcharge.com/macbook-air-13-m4/google-30w/
+MacBook Air 13″ (M4),Apple,laptop,Google 45W USB-C,Google,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-13-m4/google-45w/
+MacBook Air 13″ (M4),Apple,laptop,Steam Deck 45W,Valve,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-13-m4/steam-deck-45w/
+MacBook Air 13″ (M4),Apple,laptop,ASUS ROG 65W,ASUS,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-13-m4/asus-65w/
+MacBook Air 13″ (M4),Apple,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,standard,charger,34,107,manufacturer,https://canitcharge.com/macbook-air-13-m4/nintendo-switch-2-60w/
+MacBook Air 13″ (M4),Apple,laptop,Any 65W USB-C PD (PPS),Generic,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-13-m4/usb-c-65w-pps/
+MacBook Air 13″ (M4),Apple,laptop,Any 100W USB-C PD (PPS),Generic,100,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-13-m4/usb-c-100w-pps/
+MacBook Air 13″ (M4),Apple,laptop,Anker 715 (Nano II 65W),Anker,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-13-m4/anker-715-nano-ii-65w/
+MacBook Air 13″ (M4),Apple,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-13-m4/ugreen-nexode-pro-45w-display/
+MacBook Air 13″ (M4),Apple,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-13-m4/ugreen-nexode-pro-100w-display/
+MacBook Air 15″ (M4),Apple,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/macbook-air-15-m4/apple-5w-usb-a/
+MacBook Air 15″ (M4),Apple,laptop,Apple 20W USB-C,Apple,20,20,slow,charger,82,205,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-20w/
+MacBook Air 15″ (M4),Apple,laptop,Apple 30W USB-C,Apple,30,30,slow,charger,59,158,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-30w/
+MacBook Air 15″ (M4),Apple,laptop,Apple 35W Dual USB-C,Apple,35,35,standard,charger,52,144,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-35w-dual/
+MacBook Air 15″ (M4),Apple,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,standard,charger,34,107,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-40w-dynamic/
+MacBook Air 15″ (M4),Apple,laptop,Apple 70W USB-C,Apple,70,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-70w/
+MacBook Air 15″ (M4),Apple,laptop,Apple 96W USB-C,Apple,96,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-96w/
+MacBook Air 15″ (M4),Apple,laptop,Apple 140W USB-C,Apple,140,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-15-m4/apple-140w/
+MacBook Air 15″ (M4),Apple,laptop,Samsung 25W Super Fast,Samsung,25,25,slow,charger,68,177,manufacturer,https://canitcharge.com/macbook-air-15-m4/samsung-25w/
+MacBook Air 15″ (M4),Apple,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-15-m4/samsung-45w/
+MacBook Air 15″ (M4),Apple,laptop,Google 30W USB-C,Google,30,30,slow,charger,59,158,manufacturer,https://canitcharge.com/macbook-air-15-m4/google-30w/
+MacBook Air 15″ (M4),Apple,laptop,Google 45W USB-C,Google,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-15-m4/google-45w/
+MacBook Air 15″ (M4),Apple,laptop,Steam Deck 45W,Valve,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-15-m4/steam-deck-45w/
+MacBook Air 15″ (M4),Apple,laptop,ASUS ROG 65W,ASUS,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-15-m4/asus-65w/
+MacBook Air 15″ (M4),Apple,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,standard,charger,34,107,manufacturer,https://canitcharge.com/macbook-air-15-m4/nintendo-switch-2-60w/
+MacBook Air 15″ (M4),Apple,laptop,Any 65W USB-C PD (PPS),Generic,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-15-m4/usb-c-65w-pps/
+MacBook Air 15″ (M4),Apple,laptop,Any 100W USB-C PD (PPS),Generic,100,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-15-m4/usb-c-100w-pps/
+MacBook Air 15″ (M4),Apple,laptop,Anker 715 (Nano II 65W),Anker,65,65,standard,charger,32,103,manufacturer,https://canitcharge.com/macbook-air-15-m4/anker-715-nano-ii-65w/
+MacBook Air 15″ (M4),Apple,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,43,124,manufacturer,https://canitcharge.com/macbook-air-15-m4/ugreen-nexode-pro-45w-display/
+MacBook Air 15″ (M4),Apple,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,70,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-air-15-m4/ugreen-nexode-pro-100w-display/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/macbook-pro-14-m5/apple-5w-usb-a/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 20W USB-C,Apple,20,20,too weak,charger,105,256,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-20w/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 30W USB-C,Apple,30,30,slow,charger,76,194,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-30w/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 35W Dual USB-C,Apple,35,35,slow,charger,67,175,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-35w-dual/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,44,126,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-40w-dynamic/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 70W USB-C,Apple,70,70,standard,charger,39,116,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-70w/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 96W USB-C,Apple,96,96,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-96w/
+MacBook Pro 14″ (M5),Apple,laptop,Apple 140W USB-C,Apple,140,96,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-pro-14-m5/apple-140w/
+MacBook Pro 14″ (M5),Apple,laptop,Samsung 25W Super Fast,Samsung,25,25,too weak,charger,88,219,manufacturer,https://canitcharge.com/macbook-pro-14-m5/samsung-25w/
+MacBook Pro 14″ (M5),Apple,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,55,149,manufacturer,https://canitcharge.com/macbook-pro-14-m5/samsung-45w/
+MacBook Pro 14″ (M5),Apple,laptop,Google 30W USB-C,Google,30,30,slow,charger,76,194,manufacturer,https://canitcharge.com/macbook-pro-14-m5/google-30w/
+MacBook Pro 14″ (M5),Apple,laptop,Google 45W USB-C,Google,45,45,slow,charger,55,149,manufacturer,https://canitcharge.com/macbook-pro-14-m5/google-45w/
+MacBook Pro 14″ (M5),Apple,laptop,Steam Deck 45W,Valve,45,45,slow,charger,55,149,manufacturer,https://canitcharge.com/macbook-pro-14-m5/steam-deck-45w/
+MacBook Pro 14″ (M5),Apple,laptop,ASUS ROG 65W,ASUS,65,65,slow,charger,41,121,manufacturer,https://canitcharge.com/macbook-pro-14-m5/asus-65w/
+MacBook Pro 14″ (M5),Apple,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,44,126,manufacturer,https://canitcharge.com/macbook-pro-14-m5/nintendo-switch-2-60w/
+MacBook Pro 14″ (M5),Apple,laptop,Any 65W USB-C PD (PPS),Generic,65,65,slow,charger,41,121,manufacturer,https://canitcharge.com/macbook-pro-14-m5/usb-c-65w-pps/
+MacBook Pro 14″ (M5),Apple,laptop,Any 100W USB-C PD (PPS),Generic,100,96,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-pro-14-m5/usb-c-100w-pps/
+MacBook Pro 14″ (M5),Apple,laptop,Anker 715 (Nano II 65W),Anker,65,65,slow,charger,41,121,manufacturer,https://canitcharge.com/macbook-pro-14-m5/anker-715-nano-ii-65w/
+MacBook Pro 14″ (M5),Apple,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,55,149,manufacturer,https://canitcharge.com/macbook-pro-14-m5/ugreen-nexode-pro-45w-display/
+MacBook Pro 14″ (M5),Apple,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,96,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-pro-14-m5/ugreen-nexode-pro-100w-display/
+Steam Deck OLED,Valve,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/steam-deck-oled/apple-5w-usb-a/
+Steam Deck OLED,Valve,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,88,237,battery,https://canitcharge.com/steam-deck-oled/apple-20w/
+Steam Deck OLED,Valve,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,59,173,battery,https://canitcharge.com/steam-deck-oled/apple-30w/
+Steam Deck OLED,Valve,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,50,154,battery,https://canitcharge.com/steam-deck-oled/apple-35w-dual/
+Steam Deck OLED,Valve,handheld,Apple 40W Dynamic (60W Max),Apple,60,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/apple-40w-dynamic/
+Steam Deck OLED,Valve,handheld,Apple 70W USB-C,Apple,70,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/apple-70w/
+Steam Deck OLED,Valve,handheld,Apple 96W USB-C,Apple,96,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/apple-96w/
+Steam Deck OLED,Valve,handheld,Apple 140W USB-C,Apple,140,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/apple-140w/
+Steam Deck OLED,Valve,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,71,198,battery,https://canitcharge.com/steam-deck-oled/samsung-25w/
+Steam Deck OLED,Valve,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/samsung-45w/
+Steam Deck OLED,Valve,handheld,Google 30W USB-C,Google,30,30,slow,charger,59,173,battery,https://canitcharge.com/steam-deck-oled/google-30w/
+Steam Deck OLED,Valve,handheld,Google 45W USB-C,Google,45,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/google-45w/
+Steam Deck OLED,Valve,handheld,Steam Deck 45W,Valve,45,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/steam-deck-45w/
+Steam Deck OLED,Valve,handheld,ASUS ROG 65W,ASUS,65,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/asus-65w/
+Steam Deck OLED,Valve,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/nintendo-switch-2-60w/
+Steam Deck OLED,Valve,handheld,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/usb-c-65w-pps/
+Steam Deck OLED,Valve,handheld,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/usb-c-100w-pps/
+Steam Deck OLED,Valve,handheld,Anker 715 (Nano II 65W),Anker,65,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/anker-715-nano-ii-65w/
+Steam Deck OLED,Valve,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/ugreen-nexode-pro-45w-display/
+Steam Deck OLED,Valve,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,39,129,battery,https://canitcharge.com/steam-deck-oled/ugreen-nexode-pro-100w-display/
+Steam Deck LCD,Valve,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/steam-deck-lcd/apple-5w-usb-a/
+Steam Deck LCD,Valve,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,71,190,battery,https://canitcharge.com/steam-deck-lcd/apple-20w/
+Steam Deck LCD,Valve,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,47,138,battery,https://canitcharge.com/steam-deck-lcd/apple-30w/
+Steam Deck LCD,Valve,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,40,123,battery,https://canitcharge.com/steam-deck-lcd/apple-35w-dual/
+Steam Deck LCD,Valve,handheld,Apple 40W Dynamic (60W Max),Apple,60,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/apple-40w-dynamic/
+Steam Deck LCD,Valve,handheld,Apple 70W USB-C,Apple,70,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/apple-70w/
+Steam Deck LCD,Valve,handheld,Apple 96W USB-C,Apple,96,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/apple-96w/
+Steam Deck LCD,Valve,handheld,Apple 140W USB-C,Apple,140,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/apple-140w/
+Steam Deck LCD,Valve,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,56,159,battery,https://canitcharge.com/steam-deck-lcd/samsung-25w/
+Steam Deck LCD,Valve,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/samsung-45w/
+Steam Deck LCD,Valve,handheld,Google 30W USB-C,Google,30,30,slow,charger,47,138,battery,https://canitcharge.com/steam-deck-lcd/google-30w/
+Steam Deck LCD,Valve,handheld,Google 45W USB-C,Google,45,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/google-45w/
+Steam Deck LCD,Valve,handheld,Steam Deck 45W,Valve,45,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/steam-deck-45w/
+Steam Deck LCD,Valve,handheld,ASUS ROG 65W,ASUS,65,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/asus-65w/
+Steam Deck LCD,Valve,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/nintendo-switch-2-60w/
+Steam Deck LCD,Valve,handheld,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/usb-c-65w-pps/
+Steam Deck LCD,Valve,handheld,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/usb-c-100w-pps/
+Steam Deck LCD,Valve,handheld,Anker 715 (Nano II 65W),Anker,65,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/anker-715-nano-ii-65w/
+Steam Deck LCD,Valve,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/ugreen-nexode-pro-45w-display/
+Steam Deck LCD,Valve,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,31,104,battery,https://canitcharge.com/steam-deck-lcd/ugreen-nexode-pro-100w-display/
+ROG Ally X,ASUS,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/rog-ally-x/apple-5w-usb-a/
+ROG Ally X,ASUS,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,141,342,battery,https://canitcharge.com/rog-ally-x/apple-20w/
+ROG Ally X,ASUS,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,94,238,battery,https://canitcharge.com/rog-ally-x/apple-30w/
+ROG Ally X,ASUS,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,81,209,battery,https://canitcharge.com/rog-ally-x/apple-35w-dual/
+ROG Ally X,ASUS,handheld,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,47,135,battery,https://canitcharge.com/rog-ally-x/apple-40w-dynamic/
+ROG Ally X,ASUS,handheld,Apple 70W USB-C,Apple,70,70,standard,charger,40,120,battery,https://canitcharge.com/rog-ally-x/apple-70w/
+ROG Ally X,ASUS,handheld,Apple 96W USB-C,Apple,96,96,standard,charger,29,96,battery,https://canitcharge.com/rog-ally-x/apple-96w/
+ROG Ally X,ASUS,handheld,Apple 140W USB-C,Apple,140,100,full speed,device,28,93,battery,https://canitcharge.com/rog-ally-x/apple-140w/
+ROG Ally X,ASUS,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,113,280,battery,https://canitcharge.com/rog-ally-x/samsung-25w/
+ROG Ally X,ASUS,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,63,169,battery,https://canitcharge.com/rog-ally-x/samsung-45w/
+ROG Ally X,ASUS,handheld,Google 30W USB-C,Google,30,30,slow,charger,94,238,battery,https://canitcharge.com/rog-ally-x/google-30w/
+ROG Ally X,ASUS,handheld,Google 45W USB-C,Google,45,45,slow,charger,63,169,battery,https://canitcharge.com/rog-ally-x/google-45w/
+ROG Ally X,ASUS,handheld,Steam Deck 45W,Valve,45,45,slow,charger,63,169,battery,https://canitcharge.com/rog-ally-x/steam-deck-45w/
+ROG Ally X,ASUS,handheld,ASUS ROG 65W,ASUS,65,65,standard,charger,43,127,battery,https://canitcharge.com/rog-ally-x/asus-65w/
+ROG Ally X,ASUS,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,47,135,battery,https://canitcharge.com/rog-ally-x/nintendo-switch-2-60w/
+ROG Ally X,ASUS,handheld,Any 65W USB-C PD (PPS),Generic,65,65,standard,charger,43,127,battery,https://canitcharge.com/rog-ally-x/usb-c-65w-pps/
+ROG Ally X,ASUS,handheld,Any 100W USB-C PD (PPS),Generic,100,100,full speed,device,28,93,battery,https://canitcharge.com/rog-ally-x/usb-c-100w-pps/
+ROG Ally X,ASUS,handheld,Anker 715 (Nano II 65W),Anker,65,65,standard,charger,43,127,battery,https://canitcharge.com/rog-ally-x/anker-715-nano-ii-65w/
+ROG Ally X,ASUS,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,63,169,battery,https://canitcharge.com/rog-ally-x/ugreen-nexode-pro-45w-display/
+ROG Ally X,ASUS,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,100,full speed,device,28,93,battery,https://canitcharge.com/rog-ally-x/ugreen-nexode-pro-100w-display/
+ROG Ally,ASUS,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/rog-ally/apple-5w-usb-a/
+ROG Ally,ASUS,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,71,179,battery,https://canitcharge.com/rog-ally/apple-20w/
+ROG Ally,ASUS,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,47,127,battery,https://canitcharge.com/rog-ally/apple-30w/
+ROG Ally,ASUS,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,40,113,battery,https://canitcharge.com/rog-ally/apple-35w-dual/
+ROG Ally,ASUS,handheld,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,24,76,battery,https://canitcharge.com/rog-ally/apple-40w-dynamic/
+ROG Ally,ASUS,handheld,Apple 70W USB-C,Apple,70,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/apple-70w/
+ROG Ally,ASUS,handheld,Apple 96W USB-C,Apple,96,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/apple-96w/
+ROG Ally,ASUS,handheld,Apple 140W USB-C,Apple,140,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/apple-140w/
+ROG Ally,ASUS,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,56,148,battery,https://canitcharge.com/rog-ally/samsung-25w/
+ROG Ally,ASUS,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,31,93,battery,https://canitcharge.com/rog-ally/samsung-45w/
+ROG Ally,ASUS,handheld,Google 30W USB-C,Google,30,30,slow,charger,47,127,battery,https://canitcharge.com/rog-ally/google-30w/
+ROG Ally,ASUS,handheld,Google 45W USB-C,Google,45,45,slow,charger,31,93,battery,https://canitcharge.com/rog-ally/google-45w/
+ROG Ally,ASUS,handheld,Steam Deck 45W,Valve,45,45,slow,charger,31,93,battery,https://canitcharge.com/rog-ally/steam-deck-45w/
+ROG Ally,ASUS,handheld,ASUS ROG 65W,ASUS,65,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/asus-65w/
+ROG Ally,ASUS,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,24,76,battery,https://canitcharge.com/rog-ally/nintendo-switch-2-60w/
+ROG Ally,ASUS,handheld,Any 65W USB-C PD (PPS),Generic,65,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/usb-c-65w-pps/
+ROG Ally,ASUS,handheld,Any 100W USB-C PD (PPS),Generic,100,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/usb-c-100w-pps/
+ROG Ally,ASUS,handheld,Anker 715 (Nano II 65W),Anker,65,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/anker-715-nano-ii-65w/
+ROG Ally,ASUS,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,31,93,battery,https://canitcharge.com/rog-ally/ugreen-nexode-pro-45w-display/
+ROG Ally,ASUS,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,65,full speed,device,22,72,battery,https://canitcharge.com/rog-ally/ugreen-nexode-pro-100w-display/
+Nintendo Switch 2,Nintendo,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/nintendo-switch-2/apple-5w-usb-a/
+Nintendo Switch 2,Nintendo,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,169,433,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-20w/
+Nintendo Switch 2,Nintendo,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,114,313,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-30w/
+Nintendo Switch 2,Nintendo,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,97,277,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-35w-dual/
+Nintendo Switch 2,Nintendo,handheld,Apple 40W Dynamic (60W Max),Apple,60,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-40w-dynamic/
+Nintendo Switch 2,Nintendo,handheld,Apple 70W USB-C,Apple,70,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-70w/
+Nintendo Switch 2,Nintendo,handheld,Apple 96W USB-C,Apple,96,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-96w/
+Nintendo Switch 2,Nintendo,handheld,Apple 140W USB-C,Apple,140,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/apple-140w/
+Nintendo Switch 2,Nintendo,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,136,363,manufacturer,https://canitcharge.com/nintendo-switch-2/samsung-25w/
+Nintendo Switch 2,Nintendo,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,75,227,manufacturer,https://canitcharge.com/nintendo-switch-2/samsung-45w/
+Nintendo Switch 2,Nintendo,handheld,Google 30W USB-C,Google,30,30,slow,charger,114,313,manufacturer,https://canitcharge.com/nintendo-switch-2/google-30w/
+Nintendo Switch 2,Nintendo,handheld,Google 45W USB-C,Google,45,45,standard,charger,75,227,manufacturer,https://canitcharge.com/nintendo-switch-2/google-45w/
+Nintendo Switch 2,Nintendo,handheld,Steam Deck 45W,Valve,45,45,standard,charger,75,227,manufacturer,https://canitcharge.com/nintendo-switch-2/steam-deck-45w/
+Nintendo Switch 2,Nintendo,handheld,ASUS ROG 65W,ASUS,65,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/asus-65w/
+Nintendo Switch 2,Nintendo,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/nintendo-switch-2-60w/
+Nintendo Switch 2,Nintendo,handheld,Any 65W USB-C PD (PPS),Generic,65,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/usb-c-65w-pps/
+Nintendo Switch 2,Nintendo,handheld,Any 100W USB-C PD (PPS),Generic,100,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/usb-c-100w-pps/
+Nintendo Switch 2,Nintendo,handheld,Anker 715 (Nano II 65W),Anker,65,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/anker-715-nano-ii-65w/
+Nintendo Switch 2,Nintendo,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,75,227,manufacturer,https://canitcharge.com/nintendo-switch-2/ugreen-nexode-pro-45w-display/
+Nintendo Switch 2,Nintendo,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,60,full speed,device,55,180,manufacturer,https://canitcharge.com/nintendo-switch-2/ugreen-nexode-pro-100w-display/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/macbook-pro-16-m5/apple-5w-usb-a/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 20W USB-C,Apple,20,20,too weak,charger,142,335,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-20w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 30W USB-C,Apple,30,30,slow,charger,103,251,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-30w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 35W Dual USB-C,Apple,35,35,slow,charger,91,225,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-35w-dual/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,59,158,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-40w-dynamic/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 70W USB-C,Apple,70,70,standard,charger,52,144,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-70w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 96W USB-C,Apple,96,96,standard,charger,41,120,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-96w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Apple 140W USB-C,Apple,140,140,full speed,device,30,99,manufacturer,https://canitcharge.com/macbook-pro-16-m5/apple-140w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Samsung 25W Super Fast,Samsung,25,25,too weak,charger,119,285,manufacturer,https://canitcharge.com/macbook-pro-16-m5/samsung-25w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,74,190,manufacturer,https://canitcharge.com/macbook-pro-16-m5/samsung-45w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Google 30W USB-C,Google,30,30,slow,charger,103,251,manufacturer,https://canitcharge.com/macbook-pro-16-m5/google-30w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Google 45W USB-C,Google,45,45,slow,charger,74,190,manufacturer,https://canitcharge.com/macbook-pro-16-m5/google-45w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Steam Deck 45W,Valve,45,45,slow,charger,74,190,manufacturer,https://canitcharge.com/macbook-pro-16-m5/steam-deck-45w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,ASUS ROG 65W,ASUS,65,65,slow,charger,55,150,manufacturer,https://canitcharge.com/macbook-pro-16-m5/asus-65w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,59,158,manufacturer,https://canitcharge.com/macbook-pro-16-m5/nintendo-switch-2-60w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Any 65W USB-C PD (PPS),Generic,65,65,slow,charger,55,150,manufacturer,https://canitcharge.com/macbook-pro-16-m5/usb-c-65w-pps/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Any 100W USB-C PD (PPS),Generic,100,100,standard,charger,39,117,manufacturer,https://canitcharge.com/macbook-pro-16-m5/usb-c-100w-pps/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,Anker 715 (Nano II 65W),Anker,65,65,slow,charger,55,150,manufacturer,https://canitcharge.com/macbook-pro-16-m5/anker-715-nano-ii-65w/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,74,190,manufacturer,https://canitcharge.com/macbook-pro-16-m5/ugreen-nexode-pro-45w-display/
+MacBook Pro 16″ (M5 Pro/Max),Apple,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,100,standard,charger,39,117,manufacturer,https://canitcharge.com/macbook-pro-16-m5/ugreen-nexode-pro-100w-display/
+iPad Air 11″ (M3),Apple,tablet,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/ipad-air-11-m3/apple-5w-usb-a/
+iPad Air 11″ (M3),Apple,tablet,Apple 20W USB-C,Apple,20,20,standard,charger,51,150,battery,https://canitcharge.com/ipad-air-11-m3/apple-20w/
+iPad Air 11″ (M3),Apple,tablet,Apple 30W USB-C,Apple,30,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-30w/
+iPad Air 11″ (M3),Apple,tablet,Apple 35W Dual USB-C,Apple,35,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-35w-dual/
+iPad Air 11″ (M3),Apple,tablet,Apple 40W Dynamic (60W Max),Apple,60,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-40w-dynamic/
+iPad Air 11″ (M3),Apple,tablet,Apple 70W USB-C,Apple,70,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-70w/
+iPad Air 11″ (M3),Apple,tablet,Apple 96W USB-C,Apple,96,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-96w/
+iPad Air 11″ (M3),Apple,tablet,Apple 140W USB-C,Apple,140,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/apple-140w/
+iPad Air 11″ (M3),Apple,tablet,Samsung 25W Super Fast,Samsung,25,25,standard,charger,41,127,battery,https://canitcharge.com/ipad-air-11-m3/samsung-25w/
+iPad Air 11″ (M3),Apple,tablet,Samsung 45W Super Fast 2.0,Samsung,45,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/samsung-45w/
+iPad Air 11″ (M3),Apple,tablet,Google 30W USB-C,Google,30,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/google-30w/
+iPad Air 11″ (M3),Apple,tablet,Google 45W USB-C,Google,45,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/google-45w/
+iPad Air 11″ (M3),Apple,tablet,Steam Deck 45W,Valve,45,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/steam-deck-45w/
+iPad Air 11″ (M3),Apple,tablet,ASUS ROG 65W,ASUS,65,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/asus-65w/
+iPad Air 11″ (M3),Apple,tablet,Nintendo Switch 2 AC adapter,Nintendo,60,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/nintendo-switch-2-60w/
+iPad Air 11″ (M3),Apple,tablet,Any 65W USB-C PD (PPS),Generic,65,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/usb-c-65w-pps/
+iPad Air 11″ (M3),Apple,tablet,Any 100W USB-C PD (PPS),Generic,100,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/usb-c-100w-pps/
+iPad Air 11″ (M3),Apple,tablet,Anker 715 (Nano II 65W),Anker,65,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/anker-715-nano-ii-65w/
+iPad Air 11″ (M3),Apple,tablet,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/ugreen-nexode-pro-45w-display/
+iPad Air 11″ (M3),Apple,tablet,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,30,full speed,device,34,112,battery,https://canitcharge.com/ipad-air-11-m3/ugreen-nexode-pro-100w-display/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-5w-usb-a/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 20W USB-C,Apple,20,20,slow,charger,96,244,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-20w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 30W USB-C,Apple,30,30,slow,charger,70,188,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-30w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 35W Dual USB-C,Apple,35,35,slow,charger,62,172,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-35w-dual/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,standard,charger,40,129,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-40w-dynamic/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 70W USB-C,Apple,70,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-70w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 96W USB-C,Apple,96,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-96w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Apple 140W USB-C,Apple,140,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/apple-140w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Samsung 25W Super Fast,Samsung,25,25,slow,charger,81,211,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/samsung-25w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,50,149,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/samsung-45w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Google 30W USB-C,Google,30,30,slow,charger,70,188,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/google-30w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Google 45W USB-C,Google,45,45,standard,charger,50,149,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/google-45w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Steam Deck 45W,Valve,45,45,standard,charger,50,149,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/steam-deck-45w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,ASUS ROG 65W,ASUS,65,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/asus-65w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,standard,charger,40,129,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/nintendo-switch-2-60w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Any 65W USB-C PD (PPS),Generic,65,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/usb-c-65w-pps/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Any 100W USB-C PD (PPS),Generic,100,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/usb-c-100w-pps/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,Anker 715 (Nano II 65W),Anker,65,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/anker-715-nano-ii-65w/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,50,149,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/ugreen-nexode-pro-45w-display/
+ThinkPad X1 Carbon Gen 13,Lenovo,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,65,full speed,device,38,124,manufacturer,https://canitcharge.com/thinkpad-x1-carbon-gen-13/ugreen-nexode-pro-100w-display/
+Dell XPS 13 (2026),Dell,laptop,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/dell-xps-13-2026/apple-5w-usb-a/
+Dell XPS 13 (2026),Dell,laptop,Apple 20W USB-C,Apple,20,20,too weak,charger,92,233,battery,https://canitcharge.com/dell-xps-13-2026/apple-20w/
+Dell XPS 13 (2026),Dell,laptop,Apple 30W USB-C,Apple,30,30,slow,charger,61,166,battery,https://canitcharge.com/dell-xps-13-2026/apple-30w/
+Dell XPS 13 (2026),Dell,laptop,Apple 35W Dual USB-C,Apple,35,35,slow,charger,52,146,battery,https://canitcharge.com/dell-xps-13-2026/apple-35w-dual/
+Dell XPS 13 (2026),Dell,laptop,Apple 40W Dynamic (60W Max),Apple,60,60,standard,charger,31,98,battery,https://canitcharge.com/dell-xps-13-2026/apple-40w-dynamic/
+Dell XPS 13 (2026),Dell,laptop,Apple 70W USB-C,Apple,70,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/apple-70w/
+Dell XPS 13 (2026),Dell,laptop,Apple 96W USB-C,Apple,96,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/apple-96w/
+Dell XPS 13 (2026),Dell,laptop,Apple 140W USB-C,Apple,140,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/apple-140w/
+Dell XPS 13 (2026),Dell,laptop,Samsung 25W Super Fast,Samsung,25,25,too weak,charger,73,193,battery,https://canitcharge.com/dell-xps-13-2026/samsung-25w/
+Dell XPS 13 (2026),Dell,laptop,Samsung 45W Super Fast 2.0,Samsung,45,45,standard,charger,41,121,battery,https://canitcharge.com/dell-xps-13-2026/samsung-45w/
+Dell XPS 13 (2026),Dell,laptop,Google 30W USB-C,Google,30,30,slow,charger,61,166,battery,https://canitcharge.com/dell-xps-13-2026/google-30w/
+Dell XPS 13 (2026),Dell,laptop,Google 45W USB-C,Google,45,45,standard,charger,41,121,battery,https://canitcharge.com/dell-xps-13-2026/google-45w/
+Dell XPS 13 (2026),Dell,laptop,Steam Deck 45W,Valve,45,45,standard,charger,41,121,battery,https://canitcharge.com/dell-xps-13-2026/steam-deck-45w/
+Dell XPS 13 (2026),Dell,laptop,ASUS ROG 65W,ASUS,65,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/asus-65w/
+Dell XPS 13 (2026),Dell,laptop,Nintendo Switch 2 AC adapter,Nintendo,60,60,standard,charger,31,98,battery,https://canitcharge.com/dell-xps-13-2026/nintendo-switch-2-60w/
+Dell XPS 13 (2026),Dell,laptop,Any 65W USB-C PD (PPS),Generic,65,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/usb-c-65w-pps/
+Dell XPS 13 (2026),Dell,laptop,Any 100W USB-C PD (PPS),Generic,100,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/usb-c-100w-pps/
+Dell XPS 13 (2026),Dell,laptop,Anker 715 (Nano II 65W),Anker,65,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/anker-715-nano-ii-65w/
+Dell XPS 13 (2026),Dell,laptop,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,standard,charger,41,121,battery,https://canitcharge.com/dell-xps-13-2026/ugreen-nexode-pro-45w-display/
+Dell XPS 13 (2026),Dell,laptop,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,65,full speed,device,28,93,battery,https://canitcharge.com/dell-xps-13-2026/ugreen-nexode-pro-100w-display/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/galaxy-tab-s12-ultra/apple-5w-usb-a/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 20W USB-C,Apple,20,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-20w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 30W USB-C,Apple,30,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-30w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-35w-dual/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-40w-dynamic/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 70W USB-C,Apple,70,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-70w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 96W USB-C,Apple,96,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-96w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Apple 140W USB-C,Apple,140,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/apple-140w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Samsung 25W Super Fast,Samsung,25,25,standard,charger,54,152,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/samsung-25w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/samsung-45w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Google 30W USB-C,Google,30,30,standard,charger,45,131,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/google-30w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Google 45W USB-C,Google,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/google-45w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Steam Deck 45W,Valve,45,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/steam-deck-45w/
+Galaxy Tab S12 Ultra,Samsung,tablet,ASUS ROG 65W,ASUS,65,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/asus-65w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/nintendo-switch-2-60w/
+Galaxy Tab S12 Ultra,Samsung,tablet,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/usb-c-65w-pps/
+Galaxy Tab S12 Ultra,Samsung,tablet,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/usb-c-100w-pps/
+Galaxy Tab S12 Ultra,Samsung,tablet,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/anker-715-nano-ii-65w/
+Galaxy Tab S12 Ultra,Samsung,tablet,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/ugreen-nexode-pro-45w-display/
+Galaxy Tab S12 Ultra,Samsung,tablet,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-ultra/ugreen-nexode-pro-100w-display/
+Galaxy Tab S12+,Samsung,tablet,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/galaxy-tab-s12-plus/apple-5w-usb-a/
+Galaxy Tab S12+,Samsung,tablet,Apple 20W USB-C,Apple,20,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-20w/
+Galaxy Tab S12+,Samsung,tablet,Apple 30W USB-C,Apple,30,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-30w/
+Galaxy Tab S12+,Samsung,tablet,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-35w-dual/
+Galaxy Tab S12+,Samsung,tablet,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-40w-dynamic/
+Galaxy Tab S12+,Samsung,tablet,Apple 70W USB-C,Apple,70,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-70w/
+Galaxy Tab S12+,Samsung,tablet,Apple 96W USB-C,Apple,96,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-96w/
+Galaxy Tab S12+,Samsung,tablet,Apple 140W USB-C,Apple,140,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/apple-140w/
+Galaxy Tab S12+,Samsung,tablet,Samsung 25W Super Fast,Samsung,25,25,standard,charger,54,152,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/samsung-25w/
+Galaxy Tab S12+,Samsung,tablet,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/samsung-45w/
+Galaxy Tab S12+,Samsung,tablet,Google 30W USB-C,Google,30,30,standard,charger,45,131,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/google-30w/
+Galaxy Tab S12+,Samsung,tablet,Google 45W USB-C,Google,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/google-45w/
+Galaxy Tab S12+,Samsung,tablet,Steam Deck 45W,Valve,45,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/steam-deck-45w/
+Galaxy Tab S12+,Samsung,tablet,ASUS ROG 65W,ASUS,65,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/asus-65w/
+Galaxy Tab S12+,Samsung,tablet,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/nintendo-switch-2-60w/
+Galaxy Tab S12+,Samsung,tablet,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/usb-c-65w-pps/
+Galaxy Tab S12+,Samsung,tablet,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/usb-c-100w-pps/
+Galaxy Tab S12+,Samsung,tablet,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,89,229,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/anker-715-nano-ii-65w/
+Galaxy Tab S12+,Samsung,tablet,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/ugreen-nexode-pro-45w-display/
+Galaxy Tab S12+,Samsung,tablet,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,29,95,manufacturer,https://canitcharge.com/galaxy-tab-s12-plus/ugreen-nexode-pro-100w-display/
+ROG Xbox Ally X20,ASUS,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/rog-xbox-ally-x20/apple-5w-usb-a/
+ROG Xbox Ally X20,ASUS,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,141,356,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-20w/
+ROG Xbox Ally X20,ASUS,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,94,253,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-30w/
+ROG Xbox Ally X20,ASUS,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,81,223,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-35w-dual/
+ROG Xbox Ally X20,ASUS,handheld,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,47,149,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-40w-dynamic/
+ROG Xbox Ally X20,ASUS,handheld,Apple 70W USB-C,Apple,70,68,full speed,device,42,137,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-70w/
+ROG Xbox Ally X20,ASUS,handheld,Apple 96W USB-C,Apple,96,68,full speed,device,42,137,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-96w/
+ROG Xbox Ally X20,ASUS,handheld,Apple 140W USB-C,Apple,140,68,full speed,device,42,137,battery,https://canitcharge.com/rog-xbox-ally-x20/apple-140w/
+ROG Xbox Ally X20,ASUS,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,113,294,battery,https://canitcharge.com/rog-xbox-ally-x20/samsung-25w/
+ROG Xbox Ally X20,ASUS,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,63,184,battery,https://canitcharge.com/rog-xbox-ally-x20/samsung-45w/
+ROG Xbox Ally X20,ASUS,handheld,Google 30W USB-C,Google,30,30,slow,charger,94,253,battery,https://canitcharge.com/rog-xbox-ally-x20/google-30w/
+ROG Xbox Ally X20,ASUS,handheld,Google 45W USB-C,Google,45,45,slow,charger,63,184,battery,https://canitcharge.com/rog-xbox-ally-x20/google-45w/
+ROG Xbox Ally X20,ASUS,handheld,Steam Deck 45W,Valve,45,45,slow,charger,63,184,battery,https://canitcharge.com/rog-xbox-ally-x20/steam-deck-45w/
+ROG Xbox Ally X20,ASUS,handheld,ASUS ROG 65W,ASUS,65,65,standard,charger,43,141,battery,https://canitcharge.com/rog-xbox-ally-x20/asus-65w/
+ROG Xbox Ally X20,ASUS,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,47,149,battery,https://canitcharge.com/rog-xbox-ally-x20/nintendo-switch-2-60w/
+ROG Xbox Ally X20,ASUS,handheld,Any 65W USB-C PD (PPS),Generic,65,65,standard,charger,43,141,battery,https://canitcharge.com/rog-xbox-ally-x20/usb-c-65w-pps/
+ROG Xbox Ally X20,ASUS,handheld,Any 100W USB-C PD (PPS),Generic,100,68,full speed,device,42,137,battery,https://canitcharge.com/rog-xbox-ally-x20/usb-c-100w-pps/
+ROG Xbox Ally X20,ASUS,handheld,Anker 715 (Nano II 65W),Anker,65,65,standard,charger,43,141,battery,https://canitcharge.com/rog-xbox-ally-x20/anker-715-nano-ii-65w/
+ROG Xbox Ally X20,ASUS,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,63,184,battery,https://canitcharge.com/rog-xbox-ally-x20/ugreen-nexode-pro-45w-display/
+ROG Xbox Ally X20,ASUS,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,68,full speed,device,42,137,battery,https://canitcharge.com/rog-xbox-ally-x20/ugreen-nexode-pro-100w-display/
+iPhone 16,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-16/apple-5w-usb-a/
+iPhone 16,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-20w/
+iPhone 16,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-30w/
+iPhone 16,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-35w-dual/
+iPhone 16,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-40w-dynamic/
+iPhone 16,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-70w/
+iPhone 16,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-96w/
+iPhone 16,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/apple-140w/
+iPhone 16,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/samsung-25w/
+iPhone 16,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/samsung-45w/
+iPhone 16,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/google-30w/
+iPhone 16,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/google-45w/
+iPhone 16,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/steam-deck-45w/
+iPhone 16,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/asus-65w/
+iPhone 16,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/nintendo-switch-2-60w/
+iPhone 16,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/usb-c-65w-pps/
+iPhone 16,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/usb-c-100w-pps/
+iPhone 16,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/anker-715-nano-ii-65w/
+iPhone 16,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/ugreen-nexode-pro-45w-display/
+iPhone 16,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16/ugreen-nexode-pro-100w-display/
+iPhone 16 Pro,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-16-pro/apple-5w-usb-a/
+iPhone 16 Pro,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-20w/
+iPhone 16 Pro,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-30w/
+iPhone 16 Pro,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-35w-dual/
+iPhone 16 Pro,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-40w-dynamic/
+iPhone 16 Pro,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-70w/
+iPhone 16 Pro,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-96w/
+iPhone 16 Pro,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/apple-140w/
+iPhone 16 Pro,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/samsung-25w/
+iPhone 16 Pro,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/samsung-45w/
+iPhone 16 Pro,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/google-30w/
+iPhone 16 Pro,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/google-45w/
+iPhone 16 Pro,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/steam-deck-45w/
+iPhone 16 Pro,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/asus-65w/
+iPhone 16 Pro,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/nintendo-switch-2-60w/
+iPhone 16 Pro,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/usb-c-65w-pps/
+iPhone 16 Pro,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/usb-c-100w-pps/
+iPhone 16 Pro,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/anker-715-nano-ii-65w/
+iPhone 16 Pro,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/ugreen-nexode-pro-45w-display/
+iPhone 16 Pro,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro/ugreen-nexode-pro-100w-display/
+Galaxy S24 Ultra,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,136,316,battery,https://canitcharge.com/galaxy-s24-ultra/apple-5w-usb-a/
+Galaxy S24 Ultra,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-20w/
+Galaxy S24 Ultra,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-30w/
+Galaxy S24 Ultra,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-35w-dual/
+Galaxy S24 Ultra,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-40w-dynamic/
+Galaxy S24 Ultra,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-70w/
+Galaxy S24 Ultra,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-96w/
+Galaxy S24 Ultra,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/apple-140w/
+Galaxy S24 Ultra,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,27,76,battery,https://canitcharge.com/galaxy-s24-ultra/samsung-25w/
+Galaxy S24 Ultra,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/samsung-45w/
+Galaxy S24 Ultra,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,23,66,battery,https://canitcharge.com/galaxy-s24-ultra/google-30w/
+Galaxy S24 Ultra,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/google-45w/
+Galaxy S24 Ultra,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/steam-deck-45w/
+Galaxy S24 Ultra,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/asus-65w/
+Galaxy S24 Ultra,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/nintendo-switch-2-60w/
+Galaxy S24 Ultra,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/usb-c-65w-pps/
+Galaxy S24 Ultra,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/usb-c-100w-pps/
+Galaxy S24 Ultra,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s24-ultra/anker-715-nano-ii-65w/
+Galaxy S24 Ultra,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/ugreen-nexode-pro-45w-display/
+Galaxy S24 Ultra,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s24-ultra/ugreen-nexode-pro-100w-display/
+Pixel 10 Pro XL,Google,phone,Apple 5W USB-A,Apple,5,5,slow,charger,80,186,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-5w-usb-a/
+Pixel 10 Pro XL,Google,phone,Apple 20W USB-C,Apple,20,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-20w/
+Pixel 10 Pro XL,Google,phone,Apple 30W USB-C,Apple,30,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-30w/
+Pixel 10 Pro XL,Google,phone,Apple 35W Dual USB-C,Apple,35,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-35w-dual/
+Pixel 10 Pro XL,Google,phone,Apple 40W Dynamic (60W Max),Apple,60,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-40w-dynamic/
+Pixel 10 Pro XL,Google,phone,Apple 70W USB-C,Apple,70,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-70w/
+Pixel 10 Pro XL,Google,phone,Apple 96W USB-C,Apple,96,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-96w/
+Pixel 10 Pro XL,Google,phone,Apple 140W USB-C,Apple,140,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/apple-140w/
+Pixel 10 Pro XL,Google,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,30,86,manufacturer,https://canitcharge.com/pixel-10-pro-xl/samsung-25w/
+Pixel 10 Pro XL,Google,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/samsung-45w/
+Pixel 10 Pro XL,Google,phone,Google 30W USB-C,Google,30,30,standard,charger,27,80,manufacturer,https://canitcharge.com/pixel-10-pro-xl/google-30w/
+Pixel 10 Pro XL,Google,phone,Google 45W USB-C,Google,45,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/google-45w/
+Pixel 10 Pro XL,Google,phone,Steam Deck 45W,Valve,45,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/steam-deck-45w/
+Pixel 10 Pro XL,Google,phone,ASUS ROG 65W,ASUS,65,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/asus-65w/
+Pixel 10 Pro XL,Google,phone,Nintendo Switch 2 AC adapter,Nintendo,60,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/nintendo-switch-2-60w/
+Pixel 10 Pro XL,Google,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/usb-c-65w-pps/
+Pixel 10 Pro XL,Google,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/usb-c-100w-pps/
+Pixel 10 Pro XL,Google,phone,Anker 715 (Nano II 65W),Anker,65,18,standard,protocol,37,98,manufacturer,https://canitcharge.com/pixel-10-pro-xl/anker-715-nano-ii-65w/
+Pixel 10 Pro XL,Google,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/ugreen-nexode-pro-45w-display/
+Pixel 10 Pro XL,Google,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,21,71,manufacturer,https://canitcharge.com/pixel-10-pro-xl/ugreen-nexode-pro-100w-display/
+Legion Go 2,Lenovo,handheld,Apple 5W USB-A,Apple,5,0,won’t charge,protocol,,,,https://canitcharge.com/legion-go-2/apple-5w-usb-a/
+Legion Go 2,Lenovo,handheld,Apple 20W USB-C,Apple,20,20,slow,charger,77,186,manufacturer,https://canitcharge.com/legion-go-2/apple-20w/
+Legion Go 2,Lenovo,handheld,Apple 30W USB-C,Apple,30,30,slow,charger,56,141,manufacturer,https://canitcharge.com/legion-go-2/apple-30w/
+Legion Go 2,Lenovo,handheld,Apple 35W Dual USB-C,Apple,35,35,slow,charger,49,127,manufacturer,https://canitcharge.com/legion-go-2/apple-35w-dual/
+Legion Go 2,Lenovo,handheld,Apple 40W Dynamic (60W Max),Apple,60,60,slow,charger,32,91,manufacturer,https://canitcharge.com/legion-go-2/apple-40w-dynamic/
+Legion Go 2,Lenovo,handheld,Apple 70W USB-C,Apple,70,70,full speed,charger,28,84,manufacturer,https://canitcharge.com/legion-go-2/apple-70w/
+Legion Go 2,Lenovo,handheld,Apple 96W USB-C,Apple,96,96,full speed,charger,22,72,manufacturer,https://canitcharge.com/legion-go-2/apple-96w/
+Legion Go 2,Lenovo,handheld,Apple 140W USB-C,Apple,140,100,full speed,device,21,70,manufacturer,https://canitcharge.com/legion-go-2/apple-140w/
+Legion Go 2,Lenovo,handheld,Samsung 25W Super Fast,Samsung,25,25,slow,charger,64,159,manufacturer,https://canitcharge.com/legion-go-2/samsung-25w/
+Legion Go 2,Lenovo,handheld,Samsung 45W Super Fast 2.0,Samsung,45,45,slow,charger,40,109,manufacturer,https://canitcharge.com/legion-go-2/samsung-45w/
+Legion Go 2,Lenovo,handheld,Google 30W USB-C,Google,30,30,slow,charger,56,141,manufacturer,https://canitcharge.com/legion-go-2/google-30w/
+Legion Go 2,Lenovo,handheld,Google 45W USB-C,Google,45,45,slow,charger,40,109,manufacturer,https://canitcharge.com/legion-go-2/google-45w/
+Legion Go 2,Lenovo,handheld,Steam Deck 45W,Valve,45,45,slow,charger,40,109,manufacturer,https://canitcharge.com/legion-go-2/steam-deck-45w/
+Legion Go 2,Lenovo,handheld,ASUS ROG 65W,ASUS,65,65,full speed,charger,30,87,manufacturer,https://canitcharge.com/legion-go-2/asus-65w/
+Legion Go 2,Lenovo,handheld,Nintendo Switch 2 AC adapter,Nintendo,60,60,slow,charger,32,91,manufacturer,https://canitcharge.com/legion-go-2/nintendo-switch-2-60w/
+Legion Go 2,Lenovo,handheld,Any 65W USB-C PD (PPS),Generic,65,65,full speed,charger,30,87,manufacturer,https://canitcharge.com/legion-go-2/usb-c-65w-pps/
+Legion Go 2,Lenovo,handheld,Any 100W USB-C PD (PPS),Generic,100,100,full speed,device,21,70,manufacturer,https://canitcharge.com/legion-go-2/usb-c-100w-pps/
+Legion Go 2,Lenovo,handheld,Anker 715 (Nano II 65W),Anker,65,65,full speed,charger,30,87,manufacturer,https://canitcharge.com/legion-go-2/anker-715-nano-ii-65w/
+Legion Go 2,Lenovo,handheld,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,slow,charger,40,109,manufacturer,https://canitcharge.com/legion-go-2/ugreen-nexode-pro-45w-display/
+Legion Go 2,Lenovo,handheld,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,100,full speed,device,21,70,manufacturer,https://canitcharge.com/legion-go-2/ugreen-nexode-pro-100w-display/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,84,194,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-5w-usb-a/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-20w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-30w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-35w-dual/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-40w-dynamic/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-70w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-96w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/apple-140w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,32,90,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/samsung-25w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/samsung-45w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,29,84,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/google-30w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/google-45w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/steam-deck-45w/
+Galaxy Z Fold8 Ultra,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/asus-65w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/nintendo-switch-2-60w/
+Galaxy Z Fold8 Ultra,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/usb-c-65w-pps/
+Galaxy Z Fold8 Ultra,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/usb-c-100w-pps/
+Galaxy Z Fold8 Ultra,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,43,111,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/anker-715-nano-ii-65w/
+Galaxy Z Fold8 Ultra,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/ugreen-nexode-pro-45w-display/
+Galaxy Z Fold8 Ultra,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,22,74,manufacturer,https://canitcharge.com/galaxy-z-fold8-ultra/ugreen-nexode-pro-100w-display/
+Galaxy Z Fold8,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,89,207,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-5w-usb-a/
+Galaxy Z Fold8,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-20w/
+Galaxy Z Fold8,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-30w/
+Galaxy Z Fold8,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-35w-dual/
+Galaxy Z Fold8,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-40w-dynamic/
+Galaxy Z Fold8,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-70w/
+Galaxy Z Fold8,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-96w/
+Galaxy Z Fold8,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/apple-140w/
+Galaxy Z Fold8,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,34,95,manufacturer,https://canitcharge.com/galaxy-z-fold8/samsung-25w/
+Galaxy Z Fold8,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/samsung-45w/
+Galaxy Z Fold8,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,30,89,manufacturer,https://canitcharge.com/galaxy-z-fold8/google-30w/
+Galaxy Z Fold8,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/google-45w/
+Galaxy Z Fold8,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/steam-deck-45w/
+Galaxy Z Fold8,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/asus-65w/
+Galaxy Z Fold8,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/nintendo-switch-2-60w/
+Galaxy Z Fold8,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/usb-c-65w-pps/
+Galaxy Z Fold8,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/usb-c-100w-pps/
+Galaxy Z Fold8,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,46,118,manufacturer,https://canitcharge.com/galaxy-z-fold8/anker-715-nano-ii-65w/
+Galaxy Z Fold8,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/ugreen-nexode-pro-45w-display/
+Galaxy Z Fold8,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,24,79,manufacturer,https://canitcharge.com/galaxy-z-fold8/ugreen-nexode-pro-100w-display/
+Galaxy Z Flip8,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,72,173,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-5w-usb-a/
+Galaxy Z Flip8,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-20w/
+Galaxy Z Flip8,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-30w/
+Galaxy Z Flip8,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-35w-dual/
+Galaxy Z Flip8,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-40w-dynamic/
+Galaxy Z Flip8,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-70w/
+Galaxy Z Flip8,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-96w/
+Galaxy Z Flip8,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/apple-140w/
+Galaxy Z Flip8,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/samsung-25w/
+Galaxy Z Flip8,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/samsung-45w/
+Galaxy Z Flip8,Samsung,phone,Google 30W USB-C,Google,30,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/google-30w/
+Galaxy Z Flip8,Samsung,phone,Google 45W USB-C,Google,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/google-45w/
+Galaxy Z Flip8,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/steam-deck-45w/
+Galaxy Z Flip8,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/asus-65w/
+Galaxy Z Flip8,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/nintendo-switch-2-60w/
+Galaxy Z Flip8,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/usb-c-65w-pps/
+Galaxy Z Flip8,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/usb-c-100w-pps/
+Galaxy Z Flip8,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,37,106,manufacturer,https://canitcharge.com/galaxy-z-flip8/anker-715-nano-ii-65w/
+Galaxy Z Flip8,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/ugreen-nexode-pro-45w-display/
+Galaxy Z Flip8,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,27,90,manufacturer,https://canitcharge.com/galaxy-z-flip8/ugreen-nexode-pro-100w-display/
+iPhone 16 Pro Max,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-5w-usb-a/
+iPhone 16 Pro Max,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-20w/
+iPhone 16 Pro Max,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-30w/
+iPhone 16 Pro Max,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-35w-dual/
+iPhone 16 Pro Max,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-40w-dynamic/
+iPhone 16 Pro Max,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-70w/
+iPhone 16 Pro Max,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-96w/
+iPhone 16 Pro Max,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/apple-140w/
+iPhone 16 Pro Max,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/samsung-25w/
+iPhone 16 Pro Max,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/samsung-45w/
+iPhone 16 Pro Max,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/google-30w/
+iPhone 16 Pro Max,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/google-45w/
+iPhone 16 Pro Max,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/steam-deck-45w/
+iPhone 16 Pro Max,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/asus-65w/
+iPhone 16 Pro Max,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/nintendo-switch-2-60w/
+iPhone 16 Pro Max,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/usb-c-65w-pps/
+iPhone 16 Pro Max,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/usb-c-100w-pps/
+iPhone 16 Pro Max,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/anker-715-nano-ii-65w/
+iPhone 16 Pro Max,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/ugreen-nexode-pro-45w-display/
+iPhone 16 Pro Max,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-16-pro-max/ugreen-nexode-pro-100w-display/
+iPhone 15,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-15/apple-5w-usb-a/
+iPhone 15,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-20w/
+iPhone 15,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-30w/
+iPhone 15,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-35w-dual/
+iPhone 15,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-40w-dynamic/
+iPhone 15,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-70w/
+iPhone 15,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-96w/
+iPhone 15,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/apple-140w/
+iPhone 15,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/samsung-25w/
+iPhone 15,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/samsung-45w/
+iPhone 15,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/google-30w/
+iPhone 15,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/google-45w/
+iPhone 15,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/steam-deck-45w/
+iPhone 15,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/asus-65w/
+iPhone 15,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/nintendo-switch-2-60w/
+iPhone 15,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/usb-c-65w-pps/
+iPhone 15,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/usb-c-100w-pps/
+iPhone 15,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/anker-715-nano-ii-65w/
+iPhone 15,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/ugreen-nexode-pro-45w-display/
+iPhone 15,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15/ugreen-nexode-pro-100w-display/
+iPhone 15 Pro Max,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-5w-usb-a/
+iPhone 15 Pro Max,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-20w/
+iPhone 15 Pro Max,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-30w/
+iPhone 15 Pro Max,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-35w-dual/
+iPhone 15 Pro Max,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-40w-dynamic/
+iPhone 15 Pro Max,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-70w/
+iPhone 15 Pro Max,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-96w/
+iPhone 15 Pro Max,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/apple-140w/
+iPhone 15 Pro Max,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/samsung-25w/
+iPhone 15 Pro Max,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/samsung-45w/
+iPhone 15 Pro Max,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/google-30w/
+iPhone 15 Pro Max,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/google-45w/
+iPhone 15 Pro Max,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/steam-deck-45w/
+iPhone 15 Pro Max,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/asus-65w/
+iPhone 15 Pro Max,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/nintendo-switch-2-60w/
+iPhone 15 Pro Max,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/usb-c-65w-pps/
+iPhone 15 Pro Max,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/usb-c-100w-pps/
+iPhone 15 Pro Max,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/anker-715-nano-ii-65w/
+iPhone 15 Pro Max,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/ugreen-nexode-pro-45w-display/
+iPhone 15 Pro Max,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-15-pro-max/ugreen-nexode-pro-100w-display/
+Galaxy S24,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,109,263,battery,https://canitcharge.com/galaxy-s24/apple-5w-usb-a/
+Galaxy S24,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-20w/
+Galaxy S24,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-30w/
+Galaxy S24,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-35w-dual/
+Galaxy S24,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-40w-dynamic/
+Galaxy S24,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-70w/
+Galaxy S24,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-96w/
+Galaxy S24,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/apple-140w/
+Galaxy S24,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/samsung-25w/
+Galaxy S24,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/samsung-45w/
+Galaxy S24,Samsung,phone,Google 30W USB-C,Google,30,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/google-30w/
+Galaxy S24,Samsung,phone,Google 45W USB-C,Google,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/google-45w/
+Galaxy S24,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/steam-deck-45w/
+Galaxy S24,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/asus-65w/
+Galaxy S24,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/nintendo-switch-2-60w/
+Galaxy S24,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/usb-c-65w-pps/
+Galaxy S24,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/usb-c-100w-pps/
+Galaxy S24,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,36,104,battery,https://canitcharge.com/galaxy-s24/anker-715-nano-ii-65w/
+Galaxy S24,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/ugreen-nexode-pro-45w-display/
+Galaxy S24,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,22,72,battery,https://canitcharge.com/galaxy-s24/ugreen-nexode-pro-100w-display/
+iPhone 14,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-14/apple-5w-usb-a/
+iPhone 14,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-20w/
+iPhone 14,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-30w/
+iPhone 14,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-35w-dual/
+iPhone 14,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-40w-dynamic/
+iPhone 14,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-70w/
+iPhone 14,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-96w/
+iPhone 14,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/apple-140w/
+iPhone 14,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/samsung-25w/
+iPhone 14,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/samsung-45w/
+iPhone 14,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/google-30w/
+iPhone 14,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/google-45w/
+iPhone 14,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/steam-deck-45w/
+iPhone 14,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/asus-65w/
+iPhone 14,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/nintendo-switch-2-60w/
+iPhone 14,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/usb-c-65w-pps/
+iPhone 14,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/usb-c-100w-pps/
+iPhone 14,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/anker-715-nano-ii-65w/
+iPhone 14,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/ugreen-nexode-pro-45w-display/
+iPhone 14,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-14/ugreen-nexode-pro-100w-display/
+iPhone 13,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-13/apple-5w-usb-a/
+iPhone 13,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-20w/
+iPhone 13,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-30w/
+iPhone 13,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-35w-dual/
+iPhone 13,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-40w-dynamic/
+iPhone 13,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-70w/
+iPhone 13,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-96w/
+iPhone 13,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/apple-140w/
+iPhone 13,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/samsung-25w/
+iPhone 13,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/samsung-45w/
+iPhone 13,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/google-30w/
+iPhone 13,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/google-45w/
+iPhone 13,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/steam-deck-45w/
+iPhone 13,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/asus-65w/
+iPhone 13,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/nintendo-switch-2-60w/
+iPhone 13,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/usb-c-65w-pps/
+iPhone 13,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/usb-c-100w-pps/
+iPhone 13,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/anker-715-nano-ii-65w/
+iPhone 13,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/ugreen-nexode-pro-45w-display/
+iPhone 13,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-13/ugreen-nexode-pro-100w-display/
+Galaxy S23 Ultra,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,136,316,battery,https://canitcharge.com/galaxy-s23-ultra/apple-5w-usb-a/
+Galaxy S23 Ultra,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-20w/
+Galaxy S23 Ultra,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-30w/
+Galaxy S23 Ultra,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-35w-dual/
+Galaxy S23 Ultra,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-40w-dynamic/
+Galaxy S23 Ultra,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-70w/
+Galaxy S23 Ultra,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-96w/
+Galaxy S23 Ultra,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/apple-140w/
+Galaxy S23 Ultra,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,standard,charger,27,76,battery,https://canitcharge.com/galaxy-s23-ultra/samsung-25w/
+Galaxy S23 Ultra,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/samsung-45w/
+Galaxy S23 Ultra,Samsung,phone,Google 30W USB-C,Google,30,30,standard,charger,23,66,battery,https://canitcharge.com/galaxy-s23-ultra/google-30w/
+Galaxy S23 Ultra,Samsung,phone,Google 45W USB-C,Google,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/google-45w/
+Galaxy S23 Ultra,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/steam-deck-45w/
+Galaxy S23 Ultra,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/asus-65w/
+Galaxy S23 Ultra,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/nintendo-switch-2-60w/
+Galaxy S23 Ultra,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/usb-c-65w-pps/
+Galaxy S23 Ultra,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/usb-c-100w-pps/
+Galaxy S23 Ultra,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,45,116,battery,https://canitcharge.com/galaxy-s23-ultra/anker-715-nano-ii-65w/
+Galaxy S23 Ultra,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/ugreen-nexode-pro-45w-display/
+Galaxy S23 Ultra,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,45,full speed,device,15,50,battery,https://canitcharge.com/galaxy-s23-ultra/ugreen-nexode-pro-100w-display/
+Galaxy S23,Samsung,phone,Apple 5W USB-A,Apple,5,5,slow,charger,106,256,battery,https://canitcharge.com/galaxy-s23/apple-5w-usb-a/
+Galaxy S23,Samsung,phone,Apple 20W USB-C,Apple,20,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-20w/
+Galaxy S23,Samsung,phone,Apple 30W USB-C,Apple,30,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-30w/
+Galaxy S23,Samsung,phone,Apple 35W Dual USB-C,Apple,35,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-35w-dual/
+Galaxy S23,Samsung,phone,Apple 40W Dynamic (60W Max),Apple,60,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-40w-dynamic/
+Galaxy S23,Samsung,phone,Apple 70W USB-C,Apple,70,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-70w/
+Galaxy S23,Samsung,phone,Apple 96W USB-C,Apple,96,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-96w/
+Galaxy S23,Samsung,phone,Apple 140W USB-C,Apple,140,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/apple-140w/
+Galaxy S23,Samsung,phone,Samsung 25W Super Fast,Samsung,25,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/samsung-25w/
+Galaxy S23,Samsung,phone,Samsung 45W Super Fast 2.0,Samsung,45,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/samsung-45w/
+Galaxy S23,Samsung,phone,Google 30W USB-C,Google,30,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/google-30w/
+Galaxy S23,Samsung,phone,Google 45W USB-C,Google,45,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/google-45w/
+Galaxy S23,Samsung,phone,Steam Deck 45W,Valve,45,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/steam-deck-45w/
+Galaxy S23,Samsung,phone,ASUS ROG 65W,ASUS,65,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/asus-65w/
+Galaxy S23,Samsung,phone,Nintendo Switch 2 AC adapter,Nintendo,60,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/nintendo-switch-2-60w/
+Galaxy S23,Samsung,phone,Any 65W USB-C PD (PPS),Generic,65,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/usb-c-65w-pps/
+Galaxy S23,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/usb-c-100w-pps/
+Galaxy S23,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/anker-715-nano-ii-65w/
+Galaxy S23,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/ugreen-nexode-pro-45w-display/
+Galaxy S23,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/ugreen-nexode-pro-100w-display/
