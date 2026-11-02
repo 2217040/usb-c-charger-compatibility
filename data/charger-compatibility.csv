@@ -939,3 +939,23 @@ Galaxy S23,Samsung,phone,Any 100W USB-C PD (PPS),Generic,100,25,full speed,devic
 Galaxy S23,Samsung,phone,Anker 715 (Nano II 65W),Anker,65,15,standard,protocol,35,101,battery,https://canitcharge.com/galaxy-s23/anker-715-nano-ii-65w/
 Galaxy S23,Samsung,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/ugreen-nexode-pro-45w-display/
 Galaxy S23,Samsung,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,25,full speed,device,21,70,battery,https://canitcharge.com/galaxy-s23/ugreen-nexode-pro-100w-display/
+iPhone 12,Apple,phone,Apple 5W USB-A,Apple,5,5,slow,charger,69,171,manufacturer,https://canitcharge.com/iphone-12/apple-5w-usb-a/
+iPhone 12,Apple,phone,Apple 20W USB-C,Apple,20,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-20w/
+iPhone 12,Apple,phone,Apple 30W USB-C,Apple,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-30w/
+iPhone 12,Apple,phone,Apple 35W Dual USB-C,Apple,35,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-35w-dual/
+iPhone 12,Apple,phone,Apple 40W Dynamic (60W Max),Apple,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-40w-dynamic/
+iPhone 12,Apple,phone,Apple 70W USB-C,Apple,70,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-70w/
+iPhone 12,Apple,phone,Apple 96W USB-C,Apple,96,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-96w/
+iPhone 12,Apple,phone,Apple 140W USB-C,Apple,140,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/apple-140w/
+iPhone 12,Apple,phone,Samsung 25W Super Fast,Samsung,25,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/samsung-25w/
+iPhone 12,Apple,phone,Samsung 45W Super Fast 2.0,Samsung,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/samsung-45w/
+iPhone 12,Apple,phone,Google 30W USB-C,Google,30,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/google-30w/
+iPhone 12,Apple,phone,Google 45W USB-C,Google,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/google-45w/
+iPhone 12,Apple,phone,Steam Deck 45W,Valve,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/steam-deck-45w/
+iPhone 12,Apple,phone,ASUS ROG 65W,ASUS,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/asus-65w/
+iPhone 12,Apple,phone,Nintendo Switch 2 AC adapter,Nintendo,60,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/nintendo-switch-2-60w/
+iPhone 12,Apple,phone,Any 65W USB-C PD (PPS),Generic,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/usb-c-65w-pps/
+iPhone 12,Apple,phone,Any 100W USB-C PD (PPS),Generic,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/usb-c-100w-pps/
+iPhone 12,Apple,phone,Anker 715 (Nano II 65W),Anker,65,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/anker-715-nano-ii-65w/
+iPhone 12,Apple,phone,UGREEN Nexode Pro 45W (Smart Display),UGREEN,45,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/ugreen-nexode-pro-45w-display/
+iPhone 12,Apple,phone,UGREEN Nexode Pro 100W 4-Port (Smart Display),UGREEN,100,20,full speed,device,30,99,manufacturer,https://canitcharge.com/iphone-12/ugreen-nexode-pro-100w-display/
