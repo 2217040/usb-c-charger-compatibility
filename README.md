@@ -1,5 +1,8 @@
 # USB-C charger × device compatibility and charging time
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24344396.svg)](https://doi.org/10.5281/zenodo.24344396)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 For every pair of popular devices (phones, tablets, laptops, handheld consoles) and chargers: will it charge, the power the two negotiate, whether that is fast charging, and estimated 0–50% and 0–100% charging times. Device and charger specs come from the makers’ official pages.
 
 Maintained by **[Can It Charge? (canitcharge.com)](https://canitcharge.com/)**. The files here are the same numbers the site shows, refreshed from the site every week by a GitHub Action.
@@ -28,5 +31,19 @@ Negotiated power = the lower of what the charger can deliver over the shared pro
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — free to use, share and adapt, including commercially, with attribution:
 
 > Source: Can It Charge? (canitcharge.com) — https://canitcharge.com/devices/
+
+## Cite
+
+> Can It Charge? (2026). *USB-C Charger × Device Compatibility and Charging Time* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24344396
+
+The DOI above always points to the newest version; every weekly refresh is archived on Zenodo as its own version.
+
+## Other copies
+
+- Zenodo (archived versions, DOI): <https://doi.org/10.5281/zenodo.24344396>
+- Kaggle: <https://www.kaggle.com/datasets/axisalexis/usb-c-charger-x-device-compatibility-and-charge-time>
+- Hugging Face: <https://huggingface.co/datasets/AxisAlexis/usb-c-charger-compatibility>
+
+This GitHub repository is the canonical copy; the others are snapshots and can lag behind it by up to a few weeks.
 
 Spotted a wrong value? Open an issue with a link to the official source.
