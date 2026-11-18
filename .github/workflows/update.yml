@@ -3,21 +3,58 @@ on:
   schedule:
     - cron: '17 5 * * 1'
   workflow_dispatch:
+    inputs:
+      release:
+        description: 'Publish a release even if the data did not change'
+        type: boolean
+        default: false
 permissions:
   contents: write
+concurrency:
+  group: update-data
+  cancel-in-progress: false
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - name: Download the latest CSV files
         run: |
           set -e
           curl -fsSL -A "data-sync (+https://github.com/2217040/usb-c-charger-compatibility)" "https://canitcharge.com/data/charger-compatibility.csv" -o data/charger-compatibility.csv.new
           if [ "$(wc -l < data/charger-compatibility.csv.new)" -gt 5 ]; then mv data/charger-compatibility.csv.new data/charger-compatibility.csv; else echo "Too short, keeping the old file"; rm data/charger-compatibility.csv.new; fi
       - name: Commit if anything changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data
-          if git diff --cached --quiet; then echo "No changes"; else git commit -m "Update data from the site ($(date -u +%Y-%m-%d))" && git push; fi
+          if git diff --cached --quiet; then
+            echo "No changes"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update data from the site ($(date -u +%Y-%m-%d))" && git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+      # Zenodo archives every published release as a new version with its own DOI;
+      # the concept DOI in the README always resolves to the newest one.
+      - name: Publish a release
+        if: steps.commit.outputs.changed == 'true' || inputs.release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          base="v$(date -u +%Y.%m.%d)"
+          tag="$base"; n=1
+          while git rev-parse -q --verify "refs/tags/$tag" >/dev/null; do
+            n=$((n + 1)); tag="$base.$n"
+            if [ "$n" -gt 20 ]; then echo "Too many releases today" >&2; exit 1; fi
+          done
+          rows=$(($(wc -l < data/charger-compatibility.csv) - 1))
+          devices=$(tail -n +2 data/charger-compatibility.csv | cut -d, -f1 | sort -u | wc -l)
+          gh release create "$tag" \
+            --title "$tag — data refreshed from canitcharge.com" \
+            --notes "Weekly refresh from https://canitcharge.com/: $rows device × charger pairs ($devices devices). CC BY 4.0. Zenodo archives this release with its own DOI." \
+            --target "$(git rev-parse HEAD)"

@@ -4,7 +4,7 @@ For every pair of popular devices (phones, tablets, laptops, handheld consoles) 
 
 Maintained by **[Can It Charge? (canitcharge.com)](https://canitcharge.com/)**. The files here are the same numbers the site shows, refreshed from the site every week by a GitHub Action.
 
-### `data/charger-compatibility.csv` — Charger compatibility (940 rows)
+### `data/charger-compatibility.csv` — Charger compatibility (one row per device × charger pair)
 
 Live version: <https://canitcharge.com/data/charger-compatibility.csv> · shown on <https://canitcharge.com/devices/>
 
